@@ -1,0 +1,24 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "Node package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adonyssantos/jsnpm.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Adonys Santos <adonyssantosjimenez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adonyssantos/jsnpm/issues"
+  },
+  "homepage": "https://github.com/adonyssantos/jsnpm#readme"
+}
